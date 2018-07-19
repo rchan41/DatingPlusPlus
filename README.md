@@ -1,5 +1,13 @@
-# Datingplusplus
+# Dating Plus Plus
 
--	Developed a location based online dating website with Bootstrap framework
--	Designed all the UI/UX from the website and implemented interface, profile and JAVA backend
--	Received a first place out of more than 20 projects in Database class in college  
+-	A location based dating website with date connoisseurs (someone to administer and arrange a date.)
+-	Website's UI/UX and interface was built with Bootstrap.  Build with Java Server Page. Database stored in MySQL.
+-	The project came first place among 20 others in a class competition based on Functionality and Design. 
+
+## Home
+
+![Home](https://github.com/rchan41/DatingPlusPlus/blob/master/img/home.jpg?raw=true)
+
+## Registration
+
+![Registration](https://github.com/rchan41/DatingPlusPlus/blob/master/img/register.jpg?raw=true)
